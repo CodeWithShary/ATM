@@ -1,0 +1,23 @@
+{
+  "name": "atm_machine_by_sharythore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "03-jr-quiz-cli-app": "^1.0.1",
+    "inquirer": "^9.2.20",
+    "jr-guest-verification": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.10"
+  }
+}
